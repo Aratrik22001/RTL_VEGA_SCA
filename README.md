@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository implements a Fuzzy Logic-based FSM (Finite State Machine) for detecting anomalies (attacks) based on four key signal features:
+This repository implements a Fuzzy Logic-based FSM (Finite State Machine) for detecting Side-Channel Attack based on four key signal features:
 - **Energy**
 - **Peak Power**
 - **Mean Power**
